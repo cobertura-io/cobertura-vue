@@ -3,7 +3,7 @@
     <div class="navbar-fixed">
       <nav class="bg-primary">
         <div class="nav-wrapper">
-          <img class="brand-logo" src="../assets//images/logo.png" alt="Logo Cobertura" />
+          <img class="brand-logo" src="../assets/images/logo.png" alt="Logo Cobertura" />
           <ul class="right">
             <li>
               <a href="#">Lorem</a>
@@ -44,8 +44,8 @@
         </div>
       </div>
       <div class="decoration">
-        <img src="../assets//images/sofa.png" alt="ilustração de um sofá" width="500" class="sofa" />
-        <img src class="bubble" />
+        <img src="../assets/images/sofa.png" alt="ilustração de um sofá" width="500" class="sofa" />
+        <img src="../assets/images/bolhas.png" class="bubble" />
       </div>
     </div>
   </section>
