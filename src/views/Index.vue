@@ -55,3 +55,5 @@
 @import "../assets/css/libs.css";
 @import "../assets/css/style.css";
 </style>
+
+<script src="../assets/js/materialize.js"></script>
