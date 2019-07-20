@@ -15,7 +15,7 @@
               <a href="#">Dolor</a>
             </li>
             <li>
-              <a href="/login" class="btn btn-white">Entrar</a>
+              <router-link to="/login" class="btn btn-white">Entrar</router-link>
             </li>
           </ul>
         </div>
